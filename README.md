@@ -1,10 +1,2 @@
 # test03-solana
-xv v 
-xcvvxc
-xvc
-xvvxcv
-xcvvxc
-xvcxvc
-xcvxvc
-xvcxvcx
-xvcvxc
+
