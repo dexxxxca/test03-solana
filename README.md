@@ -2,3 +2,4 @@
 
 x c 
 xcx
+xccx
