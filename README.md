@@ -6,3 +6,4 @@ xccx
 xcxc
 xcxc
 xcxxc
+xccx
