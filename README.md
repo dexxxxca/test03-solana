@@ -3,3 +3,4 @@ xccx
 x c 
 xcx
 xccx
+xcxc
