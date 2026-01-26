@@ -4,3 +4,4 @@ x c
 xcx
 xccx
 xcxc
+xcxc
